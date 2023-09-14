@@ -6,7 +6,7 @@ http://localhost:5000/method/organizarNombre
 
 _2. Obtener las citas de una fecha en específico , donde se ordene los pacientes de manera alfabética._
 
-`Aún no arroja un dato` 
+`Hay un bug, que no arroja corectamente los datos aún, pero funciona con la fecha indicada` 
 http://localhost:5000/method/citas/filtrarNombre/?fecha= **Fecha en formato YYYY-MM-DD**
 
 _3. Obtener todos los médicos de una especialidad en específico (por ejemplo, **‘Cardiología’**)._
@@ -15,7 +15,8 @@ http://localhost:5000/method//medicos/filtro/?params= **Especialidad del Medico*
 
 _4. Encontrar la próxima cita para un paciente en específico (por ejemplo, el paciente con_ **user_id 1**_)._
 
-
+`Devuelve un array vacio por alguna razón`
+http://localhost:5000/method/citaProxima/?userId=5
 
 _5. Encontrar todos los pacientes que tienen citas con un médico en específico (por ejemplo, el médico con_ **med_numMatriculaProfesional 1**_)._
 

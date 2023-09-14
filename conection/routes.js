@@ -49,8 +49,8 @@ router.get("/citas/filtrarNombre", async (req, res) => {
     const result = await colection
       .find({
         cit_date: {
-          $gte: Date.parse(`${fecha}T00:00:00Z`),
-          $lte: Date.parse(`${fecha}T23:59:59Z`),
+          $gte: Date.parse(`${fecha}T00:00:00.000+00:00`),
+          $lte: Date.parse(`${fecha}T23:59:59.000+00:00`),
         },
       })
       .toArray();
@@ -81,7 +81,28 @@ router.get("/medicos/filtro", async (req, res) => {
   }
 });
 
-router.get("/organizarNombre", async (req, res) => {
+router.get("/citaProxima", async (req, res) => {
+  try {
+    const { userId } = req.query;
+    const client = new MongoClient(database);
+    await client.connect();
+    const db = client.db(nombreBase);
+    const colection = db.collection("cita");
+
+    const result = await colection
+      .find({ "cit_datosUsuario.usu_id": userId })
+      .sort({ cit_date: 1 })
+      .limit(1)
+      .toArray();
+
+    res.json(result);
+  } catch (error) {
+    console.log(error);
+    res.status(404).json("No se reconoce el dato");
+  }
+});
+
+/*router.get("/organizarNombre", async (req, res) => {
   try {
     const client = new MongoClient(database);
     await client.connect();
@@ -207,22 +228,6 @@ router.get("/organizarNombre", async (req, res) => {
     console.log(error);
     res.status(404).json("No se reconoce el dato");
   }
-});
-
-router.get("/organizarNombre", async (req, res) => {
-  try {
-    const client = new MongoClient(database);
-    await client.connect();
-    const db = client.db(nombreBase);
-    const colection = db.collection("usuario");
-
-    const result = await colection.find();
-
-    res.json(result);
-  } catch (error) {
-    console.log(error);
-    res.status(404).json("No se reconoce el dato");
-  }
-});
+});*/
 
 export default router;
