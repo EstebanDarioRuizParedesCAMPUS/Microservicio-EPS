@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6503320f522f564ed0361551"
+  },
+  "estcita_nombre": "Programada"
+},
+{
+  "_id": {
+    "$oid": "6503320f522f564ed0361552"
+  },
+  "estcita_nombre": "Confirmada"
+},
+{
+  "_id": {
+    "$oid": "6503320f522f564ed0361553"
+  },
+  "estcita_nombre": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "6503320f522f564ed0361554"
+  },
+  "estcita_nombre": "Atendida"
+},
+{
+  "_id": {
+    "$oid": "6503320f522f564ed0361555"
+  },
+  "estcita_nombre": "Cancelada"
+}]

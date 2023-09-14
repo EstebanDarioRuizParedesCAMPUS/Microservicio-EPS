@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "650334c1522f564ed0361571"
+  },
+  "tipodoc_nombre": "Cédula de Ciudadanía",
+  "tipodoc_abreviatura": "CC"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361572"
+  },
+  "tipodoc_nombre": "Tarjeta de Identidad",
+  "tipodoc_abreviatura": "TI"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361573"
+  },
+  "tipodoc_nombre": "Cédula de Extranjería",
+  "tipodoc_abreviatura": "CE"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361574"
+  },
+  "tipodoc_nombre": "Pasaporte",
+  "tipodoc_abreviatura": "PAS"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361575"
+  },
+  "tipodoc_nombre": "Registro Civil",
+  "tipodoc_abreviatura": "RC"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361576"
+  },
+  "tipodoc_nombre": "Tarjeta de Residente",
+  "tipodoc_abreviatura": "TR"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361577"
+  },
+  "tipodoc_nombre": "Registro Único de Afiliado (RUAF)",
+  "tipodoc_abreviatura": "RUAF"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361578"
+  },
+  "tipodoc_nombre": "Licencia de Conducir",
+  "tipodoc_abreviatura": "LC"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed0361579"
+  },
+  "tipodoc_nombre": "Documento de Identidad Extranjero",
+  "tipodoc_abreviatura": "DIE"
+},
+{
+  "_id": {
+    "$oid": "650334c1522f564ed036157a"
+  },
+  "tipodoc_nombre": "Registro Civil de Matrimonio",
+  "tipodoc_abreviatura": "RCM"
+}]

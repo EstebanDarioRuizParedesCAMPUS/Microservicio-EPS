@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "65033192522f564ed036154a"
+  },
+  "gen_nombre": "Hombre",
+  "gen_abreviatura": "H"
+},
+{
+  "_id": {
+    "$oid": "65033192522f564ed036154b"
+  },
+  "gen_nombre": "Mujer",
+  "gen_abreviatura": "M"
+},
+{
+  "_id": {
+    "$oid": "65033192522f564ed036154c"
+  },
+  "gen_nombre": "No binario",
+  "gen_abreviatura": "NB"
+},
+{
+  "_id": {
+    "$oid": "65033192522f564ed036154d"
+  },
+  "gen_nombre": "Género fluido",
+  "gen_abreviatura": "GF"
+},
+{
+  "_id": {
+    "$oid": "65033192522f564ed036154e"
+  },
+  "gen_nombre": "Transgénero",
+  "gen_abreviatura": "TG"
+}]

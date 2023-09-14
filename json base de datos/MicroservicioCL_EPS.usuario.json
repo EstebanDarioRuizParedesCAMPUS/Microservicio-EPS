@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "65034049522f564ed03615aa"
+  },
+  "usu_id": 1,
+  "usu_nombre": "Juan",
+  "usu_segundo_nombre": "Andrés",
+  "usu_primer_apellido_usuar": "Gómez",
+  "usu_segundo_apellido_usuar": "López",
+  "usu_edad": 25,
+  "usu_telefono": "+57 301 234 5678",
+  "usu_direccion": "Carrera 10 #123-45, Bogotá",
+  "usu_email": "juan.andres@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361571"
+    },
+    "tipodoc_nombre": "Cédula de Ciudadanía",
+    "tipodoc_abreviatura": "CC"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154a"
+    },
+    "gen_nombre": "Hombre",
+    "gen_abreviatura": "H"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615ab"
+  },
+  "usu_id": 2,
+  "usu_nombre": "María",
+  "usu_segundo_nombre": "Isabel",
+  "usu_primer_apellido_usuar": "Rodríguez",
+  "usu_segundo_apellido_usuar": "González",
+  "usu_edad": 32,
+  "usu_telefono": "+57 310 987 6543",
+  "usu_direccion": "Calle 20 #456-78, Medellín",
+  "usu_email": "maria.isabel@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361572"
+    },
+    "tipodoc_nombre": "Tarjeta de Identidad",
+    "tipodoc_abreviatura": "TI"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154b"
+    },
+    "gen_nombre": "Mujer",
+    "gen_abreviatura": "M"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615ac"
+  },
+  "usu_id": 3,
+  "usu_nombre": "Carlos",
+  "usu_segundo_nombre": "Alejandro",
+  "usu_primer_apellido_usuar": "López",
+  "usu_segundo_apellido_usuar": "Martínez",
+  "usu_edad": 18,
+  "usu_telefono": "+57 315 876 5432",
+  "usu_direccion": "Avenida 5 #789-12, Cali",
+  "usu_email": "carlos.alejandro@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361573"
+    },
+    "tipodoc_nombre": "Cédula de Extranjería",
+    "tipodoc_abreviatura": "CE"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154c"
+    },
+    "gen_nombre": "No binario",
+    "gen_abreviatura": "NB"
+  },
+  "usu_acudiente": {
+    "_id": {
+      "$oid": "65033639522f564ed0361588"
+    },
+    "acu_nombreCompleto": "Juan Pérez"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615ad"
+  },
+  "usu_id": 4,
+  "usu_nombre": "Ana",
+  "usu_segundo_nombre": "Lucía",
+  "usu_primer_apellido_usuar": "Rodríguez",
+  "usu_segundo_apellido_usuar": "Sánchez",
+  "usu_edad": 42,
+  "usu_telefono": "+57 300 765 4321",
+  "usu_direccion": "Carrera 30 #567-89, Barranquilla",
+  "usu_email": "ana.lucia@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361574"
+    },
+    "tipodoc_nombre": "Pasaporte",
+    "tipodoc_abreviatura": "PAS"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154d"
+    },
+    "gen_nombre": "Género fluido",
+    "gen_abreviatura": "GF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615ae"
+  },
+  "usu_id": 5,
+  "usu_nombre": "Luis",
+  "usu_segundo_nombre": "Felipe",
+  "usu_primer_apellido_usuar": "Martínez",
+  "usu_segundo_apellido_usuar": "Gómez",
+  "usu_edad": 30,
+  "usu_telefono": "+57 318 654 3210",
+  "usu_direccion": "Calle 15 #987-65, Cartagena",
+  "usu_email": "luis.felipe@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361575"
+    },
+    "tipodoc_nombre": "Registro Civil",
+    "tipodoc_abreviatura": "RC"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154e"
+    },
+    "gen_nombre": "Transgénero",
+    "gen_abreviatura": "TG"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615af"
+  },
+  "usu_id": 6,
+  "usu_nombre": "Laura",
+  "usu_segundo_nombre": "Marcela",
+  "usu_primer_apellido_usuar": "González",
+  "usu_segundo_apellido_usuar": "Torres",
+  "usu_edad": 28,
+  "usu_telefono": "+57 304 543 2109",
+  "usu_direccion": "Avenida 25 #654-32, Pereira",
+  "usu_email": "laura.marcela@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361576"
+    },
+    "tipodoc_nombre": "Tarjeta de Residente",
+    "tipodoc_abreviatura": "TR"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154a"
+    },
+    "gen_nombre": "Hombre",
+    "gen_abreviatura": "H"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615b0"
+  },
+  "usu_id": 7,
+  "usu_nombre": "Pedro",
+  "usu_segundo_nombre": "Andrés",
+  "usu_primer_apellido_usuar": "Sánchez",
+  "usu_segundo_apellido_usuar": "Ramírez",
+  "usu_edad": 22,
+  "usu_telefono": "+57 317 432 1098",
+  "usu_direccion": "Carrera 40 #432-10, Manizales",
+  "usu_email": "pedro.andres@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361577"
+    },
+    "tipodoc_nombre": "Registro Único de Afiliado (RUAF)",
+    "tipodoc_abreviatura": "RUAF"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154b"
+    },
+    "gen_nombre": "Mujer",
+    "gen_abreviatura": "M"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615b1"
+  },
+  "usu_id": 8,
+  "usu_nombre": "Isabel",
+  "usu_segundo_nombre": "María",
+  "usu_primer_apellido_usuar": "Torres",
+  "usu_segundo_apellido_usuar": "González",
+  "usu_edad": 60,
+  "usu_telefono": "+57 302 321 0987",
+  "usu_direccion": "Calle 10 #234-56, Bucaramanga",
+  "usu_email": "isabel.maria@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361578"
+    },
+    "tipodoc_nombre": "Licencia de Conducir",
+    "tipodoc_abreviatura": "LC"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154c"
+    },
+    "gen_nombre": "No binario",
+    "gen_abreviatura": "NB"
+  },
+  "usu_acudiente": {
+    "_id": {
+      "$oid": "65033639522f564ed0361589"
+    },
+    "acu_nombreCompleto": "María García"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615b2"
+  },
+  "usu_id": 9,
+  "usu_nombre": "Sergio",
+  "usu_segundo_nombre": "Javier",
+  "usu_primer_apellido_usuar": "Ramírez",
+  "usu_segundo_apellido_usuar": "Torres",
+  "usu_edad": 19,
+  "usu_telefono": "+57 313 210 9876",
+  "usu_direccion": "Avenida 15 #876-54, Santa Marta",
+  "usu_email": "sergio.javier@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed0361579"
+    },
+    "tipodoc_nombre": "Documento de Identidad Extranjero",
+    "tipodoc_abreviatura": "DIE"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154d"
+    },
+    "gen_nombre": "Género fluido",
+    "gen_abreviatura": "GF"
+  },
+  "usu_acudiente": {
+    "_id": {
+      "$oid": "65033639522f564ed036158a"
+    },
+    "acu_nombreCompleto": "Carlos López"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034049522f564ed03615b3"
+  },
+  "usu_id": 10,
+  "usu_nombre": "Lucía",
+  "usu_segundo_nombre": "Isabel",
+  "usu_primer_apellido_usuar": "Ruiz",
+  "usu_segundo_apellido_usuar": "Gómez",
+  "usu_edad": 55,
+  "usu_telefono": "+57 307 654 3210",
+  "usu_direccion": "Carrera 5 #765-43, Cúcuta",
+  "usu_email": "lucia.isabel@example.com",
+  "usu_tipodoc": {
+    "_id": {
+      "$oid": "650334c1522f564ed036157a"
+    },
+    "tipodoc_nombre": "Registro Civil de Matrimonio",
+    "tipodoc_abreviatura": "RCM"
+  },
+  "usu_genero": {
+    "_id": {
+      "$oid": "65033192522f564ed036154e"
+    },
+    "gen_nombre": "Transgénero",
+    "gen_abreviatura": "TG"
+  }
+}]

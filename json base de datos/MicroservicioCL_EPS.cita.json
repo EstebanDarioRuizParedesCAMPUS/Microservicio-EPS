@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "65034523522f564ed03615b9"
+  },
+  "cit_codigo": 1,
+  "cit_date": "2023-07-15T10:30:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361551"
+    },
+    "estcita_nombre": "Programada"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed036159c"
+    },
+    "med_nroMatriculaProfesional": 1,
+    "med_nombreCompleto": "Alejandro González",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed0361565"
+      },
+      "cons_nombre": "Consultorio Cardiología"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed0361552"
+      },
+      "esp_nombre": "Cardiología"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 5,
+    "usu_nombre": "Luis",
+    "usu_segundo_nombre": "Felipe",
+    "usu_primer_apellido_usuar": "Martínez",
+    "usu_segundo_apellido_usuar": "Gómez",
+    "usu_edad": 30,
+    "usu_telefono": "+57 318 654 3210"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615ba"
+  },
+  "cit_codigo": 2,
+  "cit_date": "2023-08-20T15:45:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361554"
+    },
+    "estcita_nombre": "Atendida"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed036159d"
+    },
+    "med_nroMatriculaProfesional": 2,
+    "med_nombreCompleto": "María Rodríguez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed0361566"
+      },
+      "cons_nombre": "Consultorio Dermatología"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed0361553"
+      },
+      "esp_nombre": "Dermatología"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 8,
+    "usu_nombre": "Isabel",
+    "usu_segundo_nombre": "María",
+    "usu_primer_apellido_usuar": "Torres",
+    "usu_segundo_apellido_usuar": "González",
+    "usu_edad": 60,
+    "usu_telefono": "+57 302 321 0987"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615bb"
+  },
+  "cit_codigo": 3,
+  "cit_date": "2023-09-10T09:15:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361553"
+    },
+    "estcita_nombre": "En Curso"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed036159f"
+    },
+    "med_nroMatriculaProfesional": 4,
+    "med_nombreCompleto": "Sofía Martínez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed0361568"
+      },
+      "cons_nombre": "Consultorio Neurología"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed0361555"
+      },
+      "esp_nombre": "Neurología"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 9,
+    "usu_nombre": "Sergio",
+    "usu_segundo_nombre": "Javier",
+    "usu_primer_apellido_usuar": "Ramírez",
+    "usu_segundo_apellido_usuar": "Torres",
+    "usu_edad": 19,
+    "usu_telefono": "+57 313 210 9876"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615bc"
+  },
+  "cit_codigo": 4,
+  "cit_date": "2023-10-05T14:00:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361552"
+    },
+    "estcita_nombre": "Confirmada"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a0"
+    },
+    "med_nroMatriculaProfesional": 5,
+    "med_nombreCompleto": "Luisa Sánchez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed0361569"
+      },
+      "cons_nombre": "Consultorio Oncología"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed0361556"
+      },
+      "esp_nombre": "Oncología"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 2,
+    "usu_nombre": "María",
+    "usu_segundo_nombre": "Isabel",
+    "usu_primer_apellido_usuar": "Rodríguez",
+    "usu_segundo_apellido_usuar": "González",
+    "usu_edad": 32,
+    "usu_telefono": "+57 310 987 6543"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615bd"
+  },
+  "cit_codigo": 5,
+  "cit_date": "2023-11-12T11:30:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361555"
+    },
+    "estcita_nombre": "Cancelada"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a1"
+    },
+    "med_nroMatriculaProfesional": 6,
+    "med_nombreCompleto": "Carlos Rodríguez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed036156a"
+      },
+      "cons_nombre": "Consultorio Ginecología"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed0361557"
+      },
+      "esp_nombre": "Ginecología"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 4,
+    "usu_nombre": "Ana",
+    "usu_segundo_nombre": "Lucía",
+    "usu_primer_apellido_usuar": "Rodríguez",
+    "usu_segundo_apellido_usuar": "Sánchez",
+    "usu_edad": 42,
+    "usu_telefono": "+57 300 765 4321"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615be"
+  },
+  "cit_codigo": 6,
+  "cit_date": "2023-12-08T16:15:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361551"
+    },
+    "estcita_nombre": "Programada"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a2"
+    },
+    "med_nroMatriculaProfesional": 7,
+    "med_nombreCompleto": "Ana Pérez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed036156b"
+      },
+      "cons_nombre": "Consultorio Cirugía General"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed0361558"
+      },
+      "esp_nombre": "Cirugía General"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 3,
+    "usu_nombre": "Carlos",
+    "usu_segundo_nombre": "Alejandro",
+    "usu_primer_apellido_usuar": "López",
+    "usu_segundo_apellido_usuar": "Martínez",
+    "usu_edad": 18,
+    "usu_telefono": "+57 315 876 5432"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615bf"
+  },
+  "cit_codigo": 7,
+  "cit_date": "2022-12-20T10:00:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361553"
+    },
+    "estcita_nombre": "En Curso"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a3"
+    },
+    "med_nroMatriculaProfesional": 8,
+    "med_nombreCompleto": "Diego Ramírez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed036156c"
+      },
+      "cons_nombre": "Consultorio Endocrinología"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed0361559"
+      },
+      "esp_nombre": "Endocrinología"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 6,
+    "usu_nombre": "Laura",
+    "usu_segundo_nombre": "Marcela",
+    "usu_primer_apellido_usuar": "González",
+    "usu_segundo_apellido_usuar": "Torres",
+    "usu_edad": 28,
+    "usu_telefono": "+57 304 543 2109"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615c0"
+  },
+  "cit_codigo": 8,
+  "cit_date": "2022-11-05T08:45:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361554"
+    },
+    "estcita_nombre": "Atendida"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a4"
+    },
+    "med_nroMatriculaProfesional": 9,
+    "med_nombreCompleto": "Laura Torres",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed036156d"
+      },
+      "cons_nombre": "Consultorio Oftalmología"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed036155a"
+      },
+      "esp_nombre": "Oftalmología"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 10,
+    "usu_nombre": "Lucía",
+    "usu_segundo_nombre": "Isabel",
+    "usu_primer_apellido_usuar": "Ruiz",
+    "usu_segundo_apellido_usuar": "Gómez",
+    "usu_edad": 55,
+    "usu_telefono": "+57 307 654 3210"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034523522f564ed03615c1"
+  },
+  "cit_codigo": 9,
+  "cit_date": "2022-10-18T13:30:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361552"
+    },
+    "estcita_nombre": "Confirmada"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a5"
+    },
+    "med_nroMatriculaProfesional": 10,
+    "med_nombreCompleto": "Daniel Gómez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed036156e"
+      },
+      "cons_nombre": "Consultorio Psiquiatría"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed036155b"
+      },
+      "esp_nombre": "Psiquiatría"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 7,
+    "usu_nombre": "Pedro",
+    "usu_segundo_nombre": "Andrés",
+    "usu_primer_apellido_usuar": "Sánchez",
+    "usu_segundo_apellido_usuar": "Ramírez",
+    "usu_edad": 22,
+    "usu_telefono": "+57 317 432 1098"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034565522f564ed03615c3"
+  },
+  "cit_codigo": 10,
+  "cit_date": "2023-01-25T12:00:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361553"
+    },
+    "estcita_nombre": "En Curso"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a6"
+    },
+    "med_nroMatriculaProfesional": 11,
+    "med_nombreCompleto": "Eduardo López",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed036156f"
+      },
+      "cons_nombre": "Consultorio Ortopedia"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed036155c"
+      },
+      "esp_nombre": "Ortopedia"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 11,
+    "usu_nombre": "Camila",
+    "usu_segundo_nombre": "Alejandra",
+    "usu_primer_apellido_usuar": "Pérez",
+    "usu_segundo_apellido_usuar": "Sánchez",
+    "usu_edad": 35,
+    "usu_telefono": "+57 310 765 4321"
+  }
+},
+{
+  "_id": {
+    "$oid": "65034565522f564ed03615c4"
+  },
+  "cit_codigo": 11,
+  "cit_date": "2023-02-14T16:30:00Z",
+  "cit_estadoCita": {
+    "_id": {
+      "$oid": "6503320f522f564ed0361554"
+    },
+    "estcita_nombre": "Atendida"
+  },
+  "cit_medico": {
+    "_id": {
+      "$oid": "650338a1522f564ed03615a7"
+    },
+    "med_nroMatriculaProfesional": 12,
+    "med_nombreCompleto": "Carolina Martínez",
+    "med_consultorio": {
+      "_id": {
+        "$oid": "65033381522f564ed0361570"
+      },
+      "cons_nombre": "Consultorio Pediatría"
+    },
+    "med_especialidad": {
+      "_id": {
+        "$oid": "65033317522f564ed036155d"
+      },
+      "esp_nombre": "Pediatría"
+    }
+  },
+  "cit_datosUsuario": {
+    "usu_id": 12,
+    "usu_nombre": "Javier",
+    "usu_segundo_nombre": "Andrés",
+    "usu_primer_apellido_usuar": "Gómez",
+    "usu_segundo_apellido_usuar": "Torres",
+    "usu_edad": 7,
+    "usu_telefono": "+57 302 543 2109"
+  }
+}]

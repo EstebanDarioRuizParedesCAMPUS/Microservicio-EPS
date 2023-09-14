@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "650338a1522f564ed036159c"
+  },
+    "med_nroMatriculaProfesional":1,
+
+  "med_nombreCompleto": "Alejandro González",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed0361565"
+    },
+    "cons_nombre": "Consultorio Cardiología"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361552"
+    },
+    "esp_nombre": "Cardiología"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed036159d"
+  },
+    "med_nroMatriculaProfesional":2,
+
+  "med_nombreCompleto": "María Rodríguez",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed0361566"
+    },
+    "cons_nombre": "Consultorio Dermatología"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361553"
+    },
+    "esp_nombre": "Dermatología"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed036159e"
+  },
+    "med_nroMatriculaProfesional":3,
+
+  "med_nombreCompleto": "Javier López",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed0361567"
+    },
+    "cons_nombre": "Consultorio Pediatría"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361554"
+    },
+    "esp_nombre": "Pediatría"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed036159f"
+  },
+    "med_nroMatriculaProfesional":4,
+
+  "med_nombreCompleto": "Sofía Martínez",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed0361568"
+    },
+    "cons_nombre": "Consultorio Neurología"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361555"
+    },
+    "esp_nombre": "Neurología"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed03615a0"
+  },
+    "med_nroMatriculaProfesional":5,
+
+  "med_nombreCompleto": "Luisa Sánchez",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed0361569"
+    },
+    "cons_nombre": "Consultorio Oncología"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361556"
+    },
+    "esp_nombre": "Oncología"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed03615a1"
+  },
+    "med_nroMatriculaProfesional":6,
+
+  "med_nombreCompleto": "Carlos Rodríguez",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed036156a"
+    },
+    "cons_nombre": "Consultorio Ginecología"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361557"
+    },
+    "esp_nombre": "Ginecología"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed03615a2"
+  },
+    "med_nroMatriculaProfesional":7,
+
+  "med_nombreCompleto": "Ana Pérez",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed036156b"
+    },
+    "cons_nombre": "Consultorio Cirugía General"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361558"
+    },
+    "esp_nombre": "Cirugía General"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed03615a3"
+  },
+    "med_nroMatriculaProfesional":8,
+
+  "med_nombreCompleto": "Diego Ramírez",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed036156c"
+    },
+    "cons_nombre": "Consultorio Endocrinología"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed0361559"
+    },
+    "esp_nombre": "Endocrinología"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed03615a4"
+  },
+    "med_nroMatriculaProfesional":9,
+
+  "med_nombreCompleto": "Laura Torres",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed036156d"
+    },
+    "cons_nombre": "Consultorio Oftalmología"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed036155a"
+    },
+    "esp_nombre": "Oftalmología"
+  }
+},
+{
+  "_id": {
+    "$oid": "650338a1522f564ed03615a5"
+  },
+    "med_nroMatriculaProfesional":10,
+
+  "med_nombreCompleto": "Daniel Gómez",
+  "med_consultorio": {
+    "_id": {
+      "$oid": "65033381522f564ed036156e"
+    },
+    "cons_nombre": "Consultorio Psiquiatría"
+  },
+  "med_especialidad": {
+    "_id": {
+      "$oid": "65033317522f564ed036155b"
+    },
+    "esp_nombre": "Psiquiatría"
+  }
+}]

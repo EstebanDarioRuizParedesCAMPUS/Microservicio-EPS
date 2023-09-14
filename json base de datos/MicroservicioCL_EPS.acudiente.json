@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65033639522f564ed0361588"
+  },
+  "acu_codigo":1,
+  "acu_nombreCompleto": "Juan Pérez",
+  "acu_telefono": "+57 301 234 5678",
+  "acu_direccion": "Carrera 10 #123-45, Bogotá"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed0361589"
+  },
+  "acu_codigo":2,
+  "acu_nombreCompleto": "María García",
+  "acu_telefono": "+57 310 987 6543",
+  "acu_direccion": "Calle 20 #456-78, Medellín"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed036158a"
+  },
+  "acu_codigo":3,
+  "acu_nombreCompleto": "Carlos López",
+  "acu_telefono": "+57 315 876 5432",
+  "acu_direccion": "Avenida 5 #789-12, Cali"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed036158b"
+  },
+  "acu_codigo":4,
+  "acu_nombreCompleto": "Ana Rodríguez",
+  "acu_telefono": "+57 300 765 4321",
+  "acu_direccion": "Carrera 30 #567-89, Barranquilla"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed036158c"
+  },
+  "acu_codigo":5,
+  "acu_nombreCompleto": "Luis Martínez",
+  "acu_telefono": "+57 318 654 3210",
+  "acu_direccion": "Calle 15 #987-65, Cartagena"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed036158d"
+  },
+  "acu_codigo":6,
+  "acu_nombreCompleto": "Laura González",
+  "acu_telefono": "+57 304 543 2109",
+  "acu_direccion": "Avenida 25 #654-32, Pereira"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed036158e"
+  },
+  "acu_codigo":7,
+  "acu_nombreCompleto": "Pedro Sánchez",
+  "acu_telefono": "+57 317 432 1098",
+  "acu_direccion": "Carrera 40 #432-10, Manizales"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed036158f"
+  },
+  "acu_codigo":8,
+  "acu_nombreCompleto": "Isabel Torres",
+  "acu_telefono": "+57 302 321 0987",
+  "acu_direccion": "Calle 10 #234-56, Bucaramanga"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed0361590"
+  },
+  "acu_codigo":9,
+  "acu_nombreCompleto": "Sergio Ramírez",
+  "acu_telefono": "+57 313 210 9876",
+  "acu_direccion": "Avenida 15 #876-54, Santa Marta"
+},
+{
+  "_id": {
+    "$oid": "65033639522f564ed0361591"
+  },
+  "acu_codigo":10,
+  "acu_nombreCompleto": "Lucía Ruiz",
+  "acu_telefono": "+57 307 654 3210",
+  "acu_direccion": "Carrera 5 #765-43, Cúcuta"
+}]

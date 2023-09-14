@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65033317522f564ed0361559"
+  },
+  "esp_nombre": "Cardiología"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed036155a"
+  },
+  "esp_nombre": "Dermatología"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed036155b"
+  },
+  "esp_nombre": "Pediatría"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed036155c"
+  },
+  "esp_nombre": "Neurología"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed036155d"
+  },
+  "esp_nombre": "Oncología"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed036155e"
+  },
+  "esp_nombre": "Ginecología"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed036155f"
+  },
+  "esp_nombre": "Cirugía General"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed0361560"
+  },
+  "esp_nombre": "Endocrinología"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed0361561"
+  },
+  "esp_nombre": "Oftalmología"
+},
+{
+  "_id": {
+    "$oid": "65033317522f564ed0361562"
+  },
+  "esp_nombre": "Psiquiatría"
+}]

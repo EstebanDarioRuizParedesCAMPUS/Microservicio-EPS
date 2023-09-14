@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65033381522f564ed0361565"
+  },
+  "cons_codigo":1,
+  "cons_nombre": "Consultorio Cardiología"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed0361566"
+  },
+  "cons_codigo":2,
+  "cons_nombre": "Consultorio Dermatología"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed0361567"
+  },
+  "cons_codigo":3,
+  "cons_nombre": "Consultorio Pediatría"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed0361568"
+  },
+  "cons_codigo":4,
+  "cons_nombre": "Consultorio Neurología"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed0361569"
+  },
+  "cons_codigo":5,
+  "cons_nombre": "Consultorio Oncología"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed036156a"
+  },
+  "cons_codigo":6,
+  "cons_nombre": "Consultorio Ginecología"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed036156b"
+  },
+  "cons_codigo":7,
+  "cons_nombre": "Consultorio Cirugía General"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed036156c"
+  },
+  "cons_codigo":8,
+  "cons_nombre": "Consultorio Endocrinología"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed036156d"
+  },
+  "cons_codigo":9,
+  "cons_nombre": "Consultorio Oftalmología"
+},
+{
+  "_id": {
+    "$oid": "65033381522f564ed036156e"
+  },
+  "cons_codigo":10,
+  "cons_nombre": "Consultorio Psiquiatría"
+}]
